@@ -45,7 +45,7 @@ class NativeSvg extends Component<IContentLoaderProps> {
       toValue: 2,
       delay: delay,
       duration: durMs,
-      useNativeDriver: true,
+      useNativeDriver: false,
     }).start(() => {
       if (!this.unmounted && this.props.animate) {
         this.animatedValue.setValue(-1)

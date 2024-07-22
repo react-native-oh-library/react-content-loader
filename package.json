@@ -1,5 +1,5 @@
 {
-  "name": "react-content-loader",
+  "name": "@react-native-oh-tpl/react-content-loader",
   "version": "6.2.1",
   "description": "SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)",
   "repository": {
@@ -103,6 +103,9 @@
   },
   "peerDependencies": {
     "react": ">=16.0.0"
+  },
+  "harmony": {
+    "alias": "react-content-loader"
   },
   "husky": {
     "hooks": {
