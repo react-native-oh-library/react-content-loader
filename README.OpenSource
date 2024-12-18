@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-content-loader",
+        "License": "MIT License",
+        "License File": "https://github.com/danilowoz/react-content-loader/blob/master/LICENSE",
+        "Version Number": "7.0.2",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/danilowoz/react-content-loader",
+        "Description": "SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)"
+    }
+]
